@@ -12,7 +12,7 @@ def fall_distance(t):
 
     """Calculate the distance an object falls due to gravity in a given time. \n
 
-    t (float) = Time in seconds that the object has been falling. \n
+    t (float) = Time in seconds that the object has been falling.\n
 
     Returns : distance in meters that the object has fallen """
 
